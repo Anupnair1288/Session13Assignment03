@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActionBar Tabs Example</string>
+    <string name="actionbar_with_tabs_example">Actionbar with Tabs example</string>
+    <string name="this_is_video_fragment_sample">This is Video Fragment Sample</string>
+</resources>
